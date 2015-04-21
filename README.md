@@ -8,3 +8,5 @@ Welcome to the hello-world workshop
 *ブランチ
 ・
 ・
+
+* I like 🍣
